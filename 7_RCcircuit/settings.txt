@@ -1,0 +1,4 @@
+Mesuaring duration = 25.625 S
+Mesuaring period = 0.0413979 S
+Discretization frequency = 24.156 HZ
+QuatizationStep = 0.013 V
